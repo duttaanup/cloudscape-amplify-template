@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React SPA Template (Cloudscape Components + Amazon Cognito + Amplify React UI Components)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This project includes [Cloudscape Components](https://cloudscape.design/) to design the interfaces. This template also includes Amplify based authentication using [AWS Amplify React UI library](https://ui.docs.amplify.aws/). 
 
